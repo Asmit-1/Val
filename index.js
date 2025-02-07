@@ -46,7 +46,7 @@ function generateMessage(noCount) {
     "sachiiiii?",
     "Pookie please",
     "roidinxuuuu maaaa :(",
-    "oiiii   chup haleraaaa yess thichhhhh",
+    "oiiii   chup lageraaaa yess thichhhhh",
     "pleaseeee...",
   ];
 
